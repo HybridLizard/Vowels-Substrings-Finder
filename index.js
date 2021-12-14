@@ -31,7 +31,7 @@ function findSubstring(str) {
   return counter;
 }
 
-// Driver code
+// Example
 let str = 'aaeuiou';
 const result = findSubstring(str);
 console.log(result);
